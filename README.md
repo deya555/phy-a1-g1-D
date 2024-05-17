@@ -1,1 +1,3 @@
-# phy-a1-g1-D
+# #include<stdio.h>
+int main(){
+  int x,y;
